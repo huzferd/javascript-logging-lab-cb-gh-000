@@ -4,11 +4,11 @@ const jsdom = require('jsdom')
 const path = require('path')
 
 describe('index', () => {
-  
+
 })
 
 it('cals console.error()', () => {
-  
+
 })
 
 jsdom({
